@@ -1,0 +1,4 @@
+asia\twentyci\pages\LoginPage.class
+asia\twentyci\steps\serenity\HomeSteps.class
+asia\twentyci\pages\HomePage.class
+asia\twentyci\features\browser\WhenOpeningTheWeb.class
