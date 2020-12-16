@@ -1,18 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: asia.twentyci.features.browser.WhenOpeningTheWeb
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 21.995 s <<< FAILURE! - in asia.twentyci.features.browser.WhenOpeningTheWeb
-asia.twentyci.features.browser.WhenOpeningTheWeb.launch_web_application  Time elapsed: 17.523 s  <<< ERROR!
-org.openqa.selenium.InvalidElementStateException: 
-invalid element state
-  (Session info: chrome=87.0.4280.88)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'ADMIN-PC', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50743}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 8bc7914768b5cbc1565b84e4f9caf314
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'ADMIN-PC', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
-Driver info: driver.version: unknown
-	at asia.twentyci.features.browser.WhenOpeningTheWeb.launch_web_application(WhenOpeningTheWeb.java:23)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.594 s - in asia.twentyci.features.browser.WhenOpeningTheWeb

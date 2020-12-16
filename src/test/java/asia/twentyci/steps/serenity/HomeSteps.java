@@ -12,7 +12,5 @@ public class HomeSteps {
 		onHomepage.open();
 		onHomepage.clickOnLoginLink();
 		onLoginpage.selectTitle();
-		//onLoginpage.selectOptionIntoTitle(null);
-		onLoginpage.submitForm();
 	}
 }
